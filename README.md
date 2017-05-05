@@ -1,7 +1,7 @@
-Aircheap
+Airceap
 ============
 
-Based on the alternative chapter 6 available online: "Complex state management with Redux" (http://www.pro-react.com/materials/)
+Testing stuffs
 
 **Install**
 ```
