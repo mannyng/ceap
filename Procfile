@@ -1,1 +1,1 @@
-web: babel-node app/puzair.js
+web: node app/puzair.js
