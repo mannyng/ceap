@@ -9,7 +9,7 @@ let AirCheapAPI = {
 
   fetchTickets(origin, destination) {
     //return fetch(`https://aircheapapi.pro-react.com/tickets?origin=${origin}&destination=${destination}`)
-     return fetch(`http://localhost:3000/flight_tickets.json?origin=${origin}&destination=${destination}`)
+     return fetch(`https://tic-api.herokuapp.com/flight_tickets.json?origin=${origin}&destination=${destination}`)
      //return fetch(`flights.json?origin=${origin}&destination=${destination}`)
     .then((response) => response.json())
       
