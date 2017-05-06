@@ -1,4 +1,5 @@
-import 'whatwg-fetch';
+//import 'whatwg-fetch';
+import fetch from 'isomorphic-fetch';
 
 let AirCheapAPI = {
   fetchAirports() {
