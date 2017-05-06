@@ -1,1 +1,1 @@
-web: node app/puzair.js
+web: node server.js
